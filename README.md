@@ -1,8 +1,15 @@
-# React + Vite
+# MyWeather (React) - 2024 version
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MyW is simple weather app where you can check weather forecast for any city. <br>
+Available languages: english, polish <br>
+This is 2024 version made in React! <br>
 
-Currently, two official plugins are available:
+# Link to hosted website:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Will be added! <br>
+
+If you enjoy my project please leave a star.
+
+# How to configure and use application by your own
+
+Will be added! <br>
